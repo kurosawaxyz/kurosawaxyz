@@ -15,10 +15,22 @@ It's Vivienne, currently completing my internship in Deep Learning Analysis at I
 
 I'm profoundly interested in Computational Neuroscience, exploring how Computer Science can be implemented in brain research and cognitive science. I'm always open to new research and study opportunities, and of course, always ready for action! 💡
 
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VivienneForReal&theme=cobalt)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VivienneForReal&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=VivienneForReal&repo=github-visitors-badge&countColor=%23FFB6C1)
+
+</div>
+
 ### Want to collaborate? 
 - 📧 Email me: *vuhoang.thduong[:at]gmail.com*
 - 🔬 Research interests: *#NeuralNetworks #BrainMapping #CognitiveComputing*
 - 🌐 Project in progress: [![BiOSGen](https://img.shields.io/badge/BiOSGen-v1.0-89D8FF)](https://github.com/VivienneForReal/BiOSGen) [![culinary-insight](https://img.shields.io/badge/culinary_insight-v1.0-D8C1FF)](https://github.com/tvtrungg/culinary-cultural-insights) 
+- Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23A5E1FF.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivienneforreal/) [![Instagram](https://img.shields.io/badge/Instagram-%23FF9ECE.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vivienneforreal.ig/)
 
 ### Upcoming release date
 
@@ -33,21 +45,26 @@ PyPI package for IADS -> 13/06/2025
 
 Stay tuned! 💫
 
+## Tech Stack
 
-<div align="center">
+### Languages
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VivienneForReal&theme=cobalt)](https://git.io/streak-stats)
+![Python](https://img.shields.io/badge/python-%23F1A8C4.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/c-%23D9B1F0.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23A5B4FF.svg?style=for-the-badge&logo=java&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23FFB2E2.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Assembly](https://img.shields.io/badge/assembly-%23F0C5D7.svg?style=for-the-badge&logo=assembly&logoColor=white)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VivienneForReal&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=VivienneForReal&repo=github-visitors-badge&countColor=%23FFB6C1)
 
-</div>
+### Tools & Technologies
+![MySQL](https://img.shields.io/badge/mysql-%23B9C4FF.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23D8B9FF.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23FFBDF2.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23B9CFFF.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23FFCAE8.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-%23C6B9FF.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-### Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23A5E1FF.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivienneforreal/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF9ECE.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vivienneforreal.ig/)
 
 <div align="center">
   <img src="assets/IMG_5792.jpg" alt="Your Image Description" width="500"/>
