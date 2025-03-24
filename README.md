@@ -1,5 +1,14 @@
-<p align="center"><img src="meow.GIF" width="300" height="300"></p>
+![](assets/IMG_5793.jpg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meriadoc-gitgit&langs_count=8&layout=compact&hide=jupyter%20notebook,html&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+# Hehehe
 
-![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FVivienneForReal%2FVivienneForReal&countColor=#0000FF&style=default)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VivienneForReal&theme=cobalt)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VivienneForReal&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=VivienneForReal&repo=github-visitors-badge&countColor=%23FFB6C1)
+
+![](assets/IMG_5792.jpg)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1s9dttrTnxzaLxmteWyCXX?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
