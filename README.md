@@ -27,10 +27,12 @@ I'm profoundly interested in Computational Neuroscience, exploring how Computer 
 </div>
 
 ### Want to collaborate? 
-- 📧 Email me: *vuhoang.thduong[:at]gmail.com*
+- 📧 Email me: [![mail](https://img.shields.io/badge/email-%23FFB2E2.svg?style=for-the-badge&logo=email&logoColor=white)](vuhoang.thduong@gmail.com)
 - 🔬 Research interests: *#NeuralNetworks #BrainMapping #CognitiveComputing*
-- 🌐 Project in progress: [![BiOSGen](https://img.shields.io/badge/BiOSGen-v1.0-89D8FF)](https://github.com/VivienneForReal/BiOSGen) [![culinary-insight](https://img.shields.io/badge/culinary_insight-v1.0-D8C1FF)](https://github.com/tvtrungg/culinary-cultural-insights) 
-- Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23A5E1FF.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivienneforreal/) [![Instagram](https://img.shields.io/badge/Instagram-%23FF9ECE.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vivienneforreal.ig/)
+- 🌐 Project in progress: [![BiOSGen](https://img.shields.io/badge/BiOSGen-v1.0-89D8FF.svg?style=for-the-badge&logo=BiOSGen&logoColor=white)](https://github.com/VivienneForReal/BiOSGen) [![culinary-insight](https://img.shields.io/badge/culinary_insight-%23A5B4FF.svg?style=for-the-badge&logo=culinary_insight&logoColor=white)](https://github.com/tvtrungg/culinary-cultural-insights)
+
+
+- Connect with me: [![ig](https://img.shields.io/badge/instagram-%23F1A8C4.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivienneforreal.ig/) [![linkedin](https://img.shields.io/badge/linkedin-%23B9CFFF.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivienneforreal/)
 
 ### Upcoming release date
 
