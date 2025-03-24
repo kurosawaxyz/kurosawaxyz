@@ -91,5 +91,8 @@ PyPI package for IADS -> 13/06/2025
 <h3 align="center">⛅️⛅️⛅️</h3>
 
 <div align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivienneForReal&theme=graywhite)
+
   <img src="assets/IMG_5792.jpg" alt="Your Image Description" width="500"/>
+
 </div>
