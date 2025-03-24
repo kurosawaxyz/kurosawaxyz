@@ -21,7 +21,7 @@ I'm profoundly interested in Computational Neuroscience, exploring how Computer 
 - 🌐 Project in progress: [![BiOSGen](https://img.shields.io/badge/BiOSGen-v1.0-89D8FF.svg?style=for-the-badge&logo=BiOSGen&logoColor=white)](https://github.com/VivienneForReal/BiOSGen) [![culinary-insight](https://img.shields.io/badge/culinary_insight-%23A5B4FF.svg?style=for-the-badge&logo=culinary_insight&logoColor=white)](https://github.com/tvtrungg/culinary-cultural-insights)
 
 
-- Connect with me: [![ig](https://img.shields.io/badge/instagram-%23F1A8C4.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivienneforreal.ig/) [![linkedin](https://img.shields.io/badge/linkedin-%23B9CFFF.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivienneforreal/)
+- Connect with me: [![linkedin](https://img.shields.io/badge/linkedin-%23B9CFFF.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivienneforreal/) [![ig](https://img.shields.io/badge/instagram-%23F1A8C4.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivienneforreal.ig/)
 
 
 ### And if you like my template,
