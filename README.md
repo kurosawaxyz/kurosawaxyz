@@ -24,8 +24,8 @@ I'm profoundly interested in Computational Neuroscience, exploring how Computer 
 - Connect with me: [![ig](https://img.shields.io/badge/instagram-%23F1A8C4.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivienneforreal.ig/) [![linkedin](https://img.shields.io/badge/linkedin-%23B9CFFF.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivienneforreal/)
 
 
-### If you like my template
-Star 🌟 me,
+### And if you like my template,
+Star 🌟 me and exec
 
 <div align="left">
   
