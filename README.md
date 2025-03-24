@@ -85,13 +85,14 @@ PyPI package for IADS -> 13/06/2025
   <img src="https://img.shields.io/badge/gitlab-%23B9CFFF.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/figma-%23FFCAE8.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/notion-%23C6B9FF.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivienneForReal&theme=graywhite" alt="GitHub Profile Summary" />
 </p>
 
 
 <h3 align="center">⛅️⛅️⛅️</h3>
 
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivienneForReal&theme=graywhite)
 
   <img src="assets/IMG_5792.jpg" alt="Your Image Description" width="500"/>
 
