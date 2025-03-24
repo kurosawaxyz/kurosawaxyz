@@ -35,7 +35,9 @@ Star 🌟 me,
 </div>
 to have immediate access!
 
-<br>
+---
+
+<h3 align="center">🐇🐇🐇</h3>
 
 <div align="center">
 
@@ -85,6 +87,8 @@ PyPI package for IADS -> 13/06/2025
   <img src="https://img.shields.io/badge/notion-%23C6B9FF.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
+
+<h3 align="center">⛅️⛅️⛅️</h3>
 
 <div align="center">
   <img src="assets/IMG_5792.jpg" alt="Your Image Description" width="500"/>
