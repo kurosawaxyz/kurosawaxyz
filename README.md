@@ -56,7 +56,7 @@ to have immediate access!
 <h2 align="center">Upcoming release date</h2>
   
 ```javascript
-BiOSGen -> Release date: 11/04/2025
+BiOSGen v1.0 -> Release date: 11/04/2025
 
 PyPI package for IADS -> 13/06/2025
 ```
