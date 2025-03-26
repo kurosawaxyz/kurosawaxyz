@@ -9,7 +9,7 @@
 </div>
 
 
-# Hi there 👋
+# Aweee 👋
 
 It's Vivienne, currently completing my internship in Deep Learning Analysis at ICM Paris Brain Institute 🧠
 
