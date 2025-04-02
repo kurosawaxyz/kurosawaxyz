@@ -86,7 +86,7 @@ PyPI package for IADS1.0 -> Release date: 13/06/2025
   <img src="https://img.shields.io/badge/figma-%23FFCAE8.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/notion-%23C6B9FF.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivienneForReal&theme=cobalt" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivienneForReal&theme=buefy" alt="GitHub Profile Summary" />
 </p>
 
 
