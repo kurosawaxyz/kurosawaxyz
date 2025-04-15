@@ -11,7 +11,7 @@
 
 # Aweee 👋
 
-It's Vivienne, currently completing my internship in Deep Learning Analysis at ICM Paris Brain Institute 🧠
+It's Vivienne, currently pursuing my internship in XAI R&D at LIP6, UMR 7606, CNRS 🧠
 
 I'm profoundly interested in Computational Neuroscience, exploring how Computer Science can be implemented in brain research and cognitive science. I'm always open to new research and study opportunities, and of course, always ready for action! 💡
 
