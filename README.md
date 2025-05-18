@@ -14,13 +14,6 @@
 
 It's Duong, Yu, or Yuong :)
 
-### Want to collaborate? 
-- 📧 Email me: [![mail](https://img.shields.io/badge/email-%231A1A1D.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:vuhoang.thduong@gmail.com)
-- 🔬 Research interests: *#NeuralNetworks #BrainMapping #CognitiveComputing*
-- 🌐 Project in progress: [![BiOSGen](https://img.shields.io/badge/BiOSGen-v2.0.1-3D9CA8.svg?style=for-the-badge&logo=BiOSGen&logoColor=white)](https://github.com/VivienneForReal/BiOSGen) [![FuzzSIM](https://img.shields.io/badge/FuzzSIM-%233D9CA8.svg?style=for-the-badge&logo=FuzzSIM&logoColor=white)]([https://github.com/tvtrungg/culinary-cultural-insights](https://github.com/VivienneForReal/FuzzSIM))
-
-- Connect with me: [![linkedin](https://img.shields.io/badge/linkedin-%231F3B73.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivienneforreal/) [![ig](https://img.shields.io/badge/instagram-%233D9CA8.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vivienneforreal.ig/)
-
 <br>
 
 <div align="center">
