@@ -12,7 +12,7 @@
 
 # わかった
 
-It's Vivienne :)
+It's Duong, Yu, or Yuong :)
 
 ### Want to collaborate? 
 - 📧 Email me: [![mail](https://img.shields.io/badge/email-%231A1A1D.svg?style=for-the-badge&logo=email&logoColor=white)](mailto:vuhoang.thduong@gmail.com)
@@ -43,8 +43,6 @@ It's Vivienne :)
 BiOSGen2.0.1 -> Release date: 13/07/2025
 ```
 </div>
-
-<p align="center">Stay tuned! 💫</p>
 
 <h2 align="center">Tech stack</h2>
 
