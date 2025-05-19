@@ -14,6 +14,8 @@
 
 It's Duong, Yu, or Yuong :)
 
+Looks better in black hahahahahha
+
 <br>
 
 <div align="center">
