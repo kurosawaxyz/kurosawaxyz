@@ -33,7 +33,8 @@ It's Duong, Yu, or Yuong :)
 <h2 align="center">Upcoming release date</h2>
   
 ```javascript
-BiOSGen2.0.1 -> Release date: 13/07/2025
+BiOSGen2.0.1 -> Release date: 13/06/2025
+FuzzSIM3.1 -> Release date: 30/06/2025
 ```
 </div>
 
