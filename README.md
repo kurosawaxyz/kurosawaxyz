@@ -18,11 +18,11 @@ It's Duong, Yu, or Yuong :)
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VivienneForReal&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kurosawaxyz&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VivienneForReal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kurosawaxyz&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=VivienneForReal&repo=github-visitors-badge&countColor=%8A0303)
+![](https://api.visitorbadge.io/api/VisitorHit?user=kurosawaxyz&repo=github-visitors-badge&countColor=%8A0303)
 
 </div>
 
