@@ -63,5 +63,5 @@ FuzzSIM3.1 -> Release date: 30/06/2025
   <img src="https://img.shields.io/badge/jax-%233D9CA8.svg?style=for-the-badge&logo=google&logoColor=white" alt="JAX" />
 
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivienneForReal&theme=vision_friendly_dark" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurosawaxyz&theme=vision_friendly_dark" alt="GitHub Profile Summary" />
 </p>
