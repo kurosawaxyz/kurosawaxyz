@@ -27,17 +27,6 @@ It's Duong, Yu, or Yuong :)
 </div>
 
 
-
-<div align="center">
-
-<h2 align="center">Upcoming release date</h2>
-  
-```javascript
-BiOSGen2.0.1 -> Release date: 13/06/2025
-FuzzSIM3.1 -> Release date: 30/06/2025
-```
-</div>
-
 <h2 align="center">Tech stack</h2>
 
 <h3 align="center">Languages</h3>
